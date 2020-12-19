@@ -1,10 +1,7 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import MissionContainer from "./components/Mission/index";
-import MissionInfoContainer from "./components/MissionInfo/index";
 import Header from "./components/Header";
-import Home from "./components/Home";
 import About from "./components/About";
 import Landing from "./components/Landing";
 
