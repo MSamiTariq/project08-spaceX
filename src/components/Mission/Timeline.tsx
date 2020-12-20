@@ -33,7 +33,7 @@ export default function OppositeContentTimeline({ data }: any) {
 			<div style={{ paddingTop: "100px" }}>
 				<React.Fragment>
 					<Timeline align="alternate">
-						{data.launches.map((launch: any, ind: number) => {
+						{data?.launches.map((launch: any, ind: number) => {
 							return (
 								<TimelineItem>
 									<TimelineOppositeContent>

@@ -10,7 +10,6 @@ export default function Loading() {
 				style={{
 					display: "flex",
 					justifyContent: "center",
-					// padding: "300px",
 					height: "100vh",
 					width: "100vw",
 				}}
