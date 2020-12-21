@@ -16,6 +16,6 @@ describe("App Component renders", () => {
 		expect(container.find("Routes").length).toEqual(1);
 	});
 	it("should contain routes tag", () => {
-		expect(container.find("Routed").length).toEqual(3);
+		expect(container.find("Routes").length).toEqual(3);
 	});
 });
