@@ -15,6 +15,7 @@
     "bootstrap": "^4.5.3",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.5",
+    "firebase": "^8.2.1",
     "graphql": "^15.4.0",
     "graphql-tag": "^2.11.0",
     "history": "^5.0.0",
