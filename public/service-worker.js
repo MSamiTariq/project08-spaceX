@@ -18,7 +18,7 @@ self.addEventListener("install", (e) => {
   self.skipWaiting();
   e.waitUntil(
     caches.open(version).then((cache) => {
-      return cache.addAll(cacheFiles);
+      return staticCache.addAll(cacheFiles);
     })
   );
 });
