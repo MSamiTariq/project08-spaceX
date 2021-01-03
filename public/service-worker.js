@@ -2,15 +2,15 @@ let version = "v1";
 
 //Cache Files
 let cacheFiles = [
-  './',
-  './static/js/2.25230c5d.chunk.js',
-  './static/js/main.70c88f5a.chunk.js',
-  './static/media/spacex.ce94a25b.jpg',
-  './manifest.json',
-  './icon.jpg',
-  './images/icons-512.png',
-  './worker.js',
-  "./index.html",
+  "./static/js/2.25230c5d.chunk.js",
+  "./static/js/main.70c88f5a.chunk.js",
+  "./static/media/spacex.ce94a25b.jpg",
+  "./manifest.json",
+  "./icon.jpg",
+  "./images/icons-512.png",
+  "./worker.js",
+  "/",
+  "/index.html",
 ];
 
 // Install Service Woker
