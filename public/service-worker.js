@@ -1,4 +1,4 @@
-let version = "v1";
+let version = "v2";
 
 //Cache Files
 let cacheFiles = [
